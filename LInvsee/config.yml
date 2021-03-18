@@ -1,0 +1,22 @@
+Config:
+   Interact: false #Caso queira que o jogador envia a solicitação quando clicar em um jogador, deixe true.
+   Permission: 'lunarinvsee.bypass' #Permissão /invsee - Para adms fialhao
+   Cooldown: true #Ativado ou desativado.
+Messages:
+   Opened: '&aVocê possui bypass e abriu o inventario deste jogador sem precisar solicitar.'
+   Usage: '&cUtilize: /invsee (jogador).'
+   Cooldown: '&cVocê deve esperar &f{time} &cpara fazer isto novamente.'
+   NotFound: '&cEste jogador não foi encontrado.'
+   TiP: '&cVocê não pode utilizar este comando em você mesmo.'
+   NoSolicit: '&cVocê não recebeu nenhuma solicitação de invsee.'
+   TAccept: '&aO Jogador {target} aceitou a sua solicitação de invsee.'
+   TDeny: '&cO jogador {target} recusou a sua soliticação de invsee.'
+   Accept: '&aVocê aceitou a solicitação de invsee para {target}.'
+   Deny: '§cVocê negou a solicitação de invsee para {target}.'
+   Send: '&aVocê enviou uma solicitação de invsee para {target}.'
+   Solicit: '&aVocê recebeu uma solicitação de invsee de {target}.'
+   ChatAccept: '&aClique &a&lAQUI &apara aceitar.'
+   SuggestAccept: '&aClique aqui para aceitar.'
+   ChatDeny: '&cClique &c&lAQUI &cpara negar.'
+   SuggestDeny: '&cCliquei aqui para negar.'
+   

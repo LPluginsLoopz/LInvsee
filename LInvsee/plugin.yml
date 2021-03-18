@@ -1,0 +1,7 @@
+name: LInvsee
+main: org.loopz.linvsee.Main
+version: 1.5
+author: Loopz
+commands:
+   invsee:
+   
